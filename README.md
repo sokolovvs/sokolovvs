@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Sokolov Vyacheslav
+# Vyacheslav Sokolov
 ### Software Engineer
 #### Lives in Omsk, Russia
 
