@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 # [Vyacheslav Sokolov](https://sokolovvs.github.io/)
-### Software Engineer
-#### Lives in Omsk, Russia
 
-- Main stack: **PHP**, interested in **Golang**
+- **PHP** Software Engineer, interested in **Golang**
 - [LinkedIn](https://www.linkedin.com/in/sokolovvs)
+- Lives in Omsk, Russia
 
 <p>
   &nbsp;
