@@ -4,7 +4,6 @@
 
 - **PHP** Software Engineer, interested in **Golang**
 - [LinkedIn](https://www.linkedin.com/in/sokolovvs)
-- Lives in Omsk, Russia
 
 <p>
   &nbsp;
