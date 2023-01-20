@@ -2,7 +2,7 @@
 
 # [Vyacheslav Sokolov](https://sokolovvs.github.io/)
 
-- **PHP** Software Engineer, interested in **Golang**
+- **PHP** Software Engineer
 - [LinkedIn](https://www.linkedin.com/in/sokolovvs)
 <!-- 
 <p>
